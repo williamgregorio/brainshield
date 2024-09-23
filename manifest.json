@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "BrainShield",
+  "version": "1.0.0",
+  "description": "BrainShield is a shield for your brain to eliminate discrations in the web.",
+  "icons": {
+    "16": "images/BrainShield16.png",
+    "24": "images/BrainShield24.png",
+    "32": "images/BrainShield32.png",
+    "48": "images/BrainShield48.png",
+    "128": "images/BrainShield128.png"
+  },
+  "action": {
+    "default_icons": {
+      "16": "images/BrainShield16.png",
+      "24": "images/BrainShield24.png",
+      "32": "images/BrainShield32.png",
+      "48": "images/BrainShield48.png",
+      "128": "images/BrainShield128.png"
+    }
+  }
+}
