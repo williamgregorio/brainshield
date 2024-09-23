@@ -1,1 +1,7 @@
-{}
+{
+  "manifest_version": 3,
+  "name": "BrainShield",
+  "version": "1.0.0",
+  "description": "BrainShield is a shield for your brain to eliminate discrations in the web.",
+
+}
